@@ -1,3 +1,3 @@
 # NER
 
-# Project implements a multi-language Named Enity Recognition system
+### This project implements a multi-language Named Enity Recognition system using Spacy
